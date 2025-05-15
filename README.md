@@ -6,28 +6,36 @@ This repository tracks my progress through freeCodeCamp's "Back End Development 
 
 ### Progress Summary (15 May 2025)
 
-I've just started the "Basic Node and Express" section of the course. In this section, I'll be learning:
+I've been working through the "Basic Node and Express" section of the course. So far, I've completed:
 
-* Meet the Node console
-* Start a Working Express Server
-* Serve an HTML File
-* Serve Static Assets
-* Serve JSON on a Specific Route
-* Use the .env File
-* Implement a Root-Level Request Logger Middleware
+* Meet the Node console ✓
+* Start a Working Express Server ✓
+* Serve an HTML File ✓
+* Serve Static Assets ✓
+* Serve JSON on a Specific Route ✓
+* Use the .env File ✓
+* Implement a Root-Level Request Logger Middleware ✓
+
+In these challenges, I've learned how to:
+- Set up a basic Express server
+- Serve HTML files and static assets
+- Create JSON endpoints
+- Use environment variables with dotenv
+- Implement middleware for request logging
+
+### Current Status ⏳
+
+Making steady progress through this section. Next, I'll be working on:
+
 * Chain Middleware to Create a Time Server
 * Get Route Parameter Input from the Client
 * Get Query Parameter Input from the Client
 * Use body-parser to Parse POST Requests
 * Get Data from POST Requests
 
-### Current Status ⏳
-
-This section is in progress. I've set up the initial Express server boilerplate code and will be working through each challenge systematically.
-
 ### Next Steps
 
-I'll be completing each challenge in the "Basic Node and Express" section before moving on to the "MongoDB and Mongoose" portion of the certification.
+After completing the "Basic Node and Express" section, I'll move on to the "MongoDB and Mongoose" portion of the certification.
 
 The complete certification path I'm following includes:
 
